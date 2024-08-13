@@ -12,7 +12,7 @@ Learn more about us at https://100roadsdesign.com.
 
 ## About the map
 
-There are three virtual campuses in this repository.
+There are three virtual campuses in this repository..
 
 ![map](readme/double-classroom-readme.png)
 
